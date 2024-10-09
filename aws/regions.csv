@@ -1,5 +1,6 @@
 af-south-1,Cape Town,ZA
 ap-east-1,Hong Kong,CN
+ap-east-2,Auckland,NZ
 ap-northeast-1,Tokyo,JP
 ap-northeast-2,Seoul,KR
 ap-northeast-3,Osaka,JP
@@ -28,6 +29,7 @@ eusc-de-east-1,Germany,DE
 il-central-1,Tel Aviv,IL
 me-central-1,UAE,AE
 me-south-1,Bahrain,BH
+mx-central-1,Mexico,MX
 sa-east-1,Sao Paulo,BR
 us-east-1,N. Virginia,US
 us-east-2,Ohio,US
